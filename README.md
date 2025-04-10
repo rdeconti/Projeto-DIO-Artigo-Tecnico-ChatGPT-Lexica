@@ -1,0 +1,1 @@
+# Projeto-DIO-Artigo-Tecnico-ChatGPT-Lexica
