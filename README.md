@@ -11,9 +11,9 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 Este projeto foi proposto pela Digital Innovation One
-- Link do código original: [Github](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia)
+- Link do código original: [Github](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia)]
 - Professor: Felipe Silva Aguiar
-- Aulas: [DIO](https://web.dio.me/lab/criando-artigos-tecnicos-com-chatgpt-e-lexicaart/learning/b3a4c522-07a4-4697-ae0d-3fdf6add2c22?back=/track/formacao-chatgpt-devs)
+- Aulas: [DIO](https://web.dio.me/lab/criando-artigos-tecnicos-com-chatgpt-e-lexicaart/learning/b3a4c522-07a4-4697-ae0d-3fdf6add2c22?back=/track/formacao-chatgpt-devs)]
 
 ## Descrição
 - Vamos ver o passo a passo para recriar um artigo técnico de qualidade a fim de criar uma autoridade técnica, tudo isso vendo um modelo de artigo magnético e agradável de ler, além disso, vamos utilizar o Lexica.art, uma ferramenta de IA para geração de imagens além de ter um banco de imagens gratuitas.
