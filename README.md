@@ -51,3 +51,9 @@ Este projeto foi proposto pela Digital Innovation One
 
 ## Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ARTIGO TÉCNICO CRIADO PELO CHATGPT
+------- |
+## PROMPT
+### Crie um artigo técnico com diretrizes para perfurar cartões com 80 colunas para criar um programa de impressão de relatório de funcionários da lista de pagamentos
